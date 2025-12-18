@@ -1,0 +1,10 @@
+{
+  "kind": 1059,
+  "pubkey": "<your-pubkey>",
+  "created_at": 1766012350,
+  "tags": [
+    ["p", "<your-pubkey>"],
+    ["enc", "nip44"]
+  ],
+  "content": "ENCRYPTED_PAYLOAD_BASE64_OR_NIP44_BLOB"
+}

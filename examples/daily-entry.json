@@ -1,0 +1,12 @@
+{
+  "kind": 30023,
+  "pubkey": "<your-pubkey>",
+  "created_at": 1766044800,
+  "tags": [
+    ["d", "2025-12-18"],
+    ["intent", "personal-journal"],
+    ["title", "Thursday wrap-up"],
+    ["mood", "reflective"]
+  ],
+  "content": "Revisited this entry later. The ride mattered more than I realised."
+}
